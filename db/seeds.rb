@@ -1,3 +1,4 @@
+Cheese.destroy_all
 puts '🧀 Seeding cheeses...'
 
 Cheese.create!(name: 'Cheddar', price: 3, is_best_seller: true)
